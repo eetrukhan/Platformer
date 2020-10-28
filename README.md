@@ -22,7 +22,7 @@
 
 ***Gameplay time:***  Unlimited 
 
-***Main mechanic:***  Run collecting bonuses and dodging enemies
+***Main mechanic:***  Run, collecting bonuses and dodging enemies
 
 ***Setting:***   Low poly game 
 
@@ -33,19 +33,32 @@ Gamers from 10 to 35 years old.
 Those who want to distract themselves and kill time
 
 # Game Character 
+
+***Gameplay map:*** 
+![Gameplay map](GameMap.png "Описание будет тут")​
+
 ***Game mechanics and operating:*** 
 
 - Actor moving: WASD
 
 - Character rotation: move the mouse along the Y and X axes
 
-- Interaction with objects:
+- Interaction with objects: Avoiding enemies and obstacles, collecting bonuses and boosters
 
 ***Boosters:***
 
+- Freeze - Slows down character and enemies
+
+- Invisibility - gives character ability to move through obstacles adn enemies
+
 ***Bonus:***
 
+- Crystall - increases score
+
 ***Enemy:***
+
+- Bomb - kills character
+
   
 # Interface 
 
@@ -54,7 +67,7 @@ Three-dimensional space, path to infinity
 
 ***Level Design:***
 Number of levels: infinty
-- Level - 
+- Level - The character runs endlessly along the road on which enemies fly at him, there are obstacles bonuses and boosters
 
 ***Balance:***
 
