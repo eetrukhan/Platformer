@@ -67,7 +67,7 @@ Three-dimensional space, path to infinity
 
 ***Level Design:***
 Number of levels: infinty
-- Level - The character runs endlessly along the road on which enemies fly at him, there are obstacles bonuses and boosters
+- Level - The character runs endlessly along the road
 
 ***Balance:***
 
